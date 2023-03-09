@@ -6,4 +6,6 @@ The project work is intended to detect the location of fault in underground cabl
 The benefits of accurate location of fault are fast repair to revive back the power system, it improves the system performance, it reduces the operating expense and the time to locate the faults in the field.
 
 # Project Module
+The module consists of an ATMEGA8 microcontroller, Wi-Fi module ESP8266, resistors, switches, voltage divider, DC adaptor and LEDs.
+
 ![IMG20210720021455](https://user-images.githubusercontent.com/126613134/224124804-aa6b24ff-a7e7-441b-967f-1d0cbcca9128.jpg)
