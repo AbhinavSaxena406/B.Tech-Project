@@ -5,3 +5,5 @@ The project work is intended to detect the location of fault in underground cabl
 
 The benefits of accurate location of fault are fast repair to revive back the power system, it improves the system performance, it reduces the operating expense and the time to locate the faults in the field.
 
+# Project Module
+![IMG20210720021455](https://user-images.githubusercontent.com/126613134/224124290-bedd6c52-ff8e-4671-a2ca-6ae930fcb124.jpg)
